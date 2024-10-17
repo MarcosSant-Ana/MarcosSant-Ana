@@ -16,3 +16,6 @@
   <a href="https://www.linkedin.com/in/marcos-sant-ana-650ba82b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSant-Ana&show_icons=true&theme=radical)](https://github.com/MarcosSant-Ana/github-readme-stats)
+
